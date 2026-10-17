@@ -1,0 +1,16 @@
+# My Data Analytics Journey
+
+## About Me
+I am learning data analytics and building practical projects for my portfolio.
+
+## Skills I Am Learning
+- Excel
+- SQL
+- Python
+- Power BI
+
+## My Goal
+To become a Data Analyst or BI Analyst.
+
+## My First GitHub Activity
+Created my first GitHub repository and started documenting my learning journey.
